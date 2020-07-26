@@ -1,0 +1,6 @@
+name: "Secrets Checker"
+description: "Check for secrets on a list before commiting to GitHub."
+author: "Xavier Collantes"
+runs:
+  using: "python3"
+  main: "checkpoint.py"
